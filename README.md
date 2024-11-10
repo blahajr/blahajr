@@ -1,4 +1,4 @@
-<h1 align="center">hello im blahja a aspiring cyber sec student</h1>
+<h1 align="center">hello im blahja a cyber sec/backend student</h1>
 
 ###
 
