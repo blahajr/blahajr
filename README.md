@@ -9,6 +9,6 @@
 
 ---
 
-## 📌 Current Projects
+##  Current Projects
 
-- **Loti** — [loti.dev](https://loti.dev)
+- **Loti** — [loti.dev](https://loti.dev) | [GitHub Org](https://github.com/Loti-Dev/)
