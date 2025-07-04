@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://cdn.loti.dev/assets/loti.png" alt="banner" width="250" height="250" style="border-radius: 10px;" />
-</div>
 
 <h1 align="center">Hello, I'm Blahja — a Cybersecurity & Backend Student 👋</h1>
 
