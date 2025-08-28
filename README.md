@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I'm Blahja — a Cybersecurity & Backend Student 👋</h1>
+<h1 align="center">Hello, I'm Blahja — a Cybersecurity & Backend Student</h1>
 
 <div align="center">
   <a href="https://discord.com/users/1136492882249924690" target="_blank">
