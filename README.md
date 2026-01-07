@@ -15,7 +15,6 @@
 </div>
 <p align="center">Most of my commits are in <strong>private repos</strong> or <strong>org repos</strong>.</p>
 
-currently studying dev ops and sys admin related 
 
 
 ##  Current Projects
